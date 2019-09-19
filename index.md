@@ -1,11 +1,12 @@
-# Welcome to my blog --- Welcome to Ascensions GitHub Enterprise (GHE)
+# Welcome to my blog --- 
+# Welcome to Ascensions GitHub Enterprise (GHE)
 
-**I'm glad you are here.**
+# I'm glad you are here.
 
 We are thrilled to welcome you to Ascensions on-premise GitHub. For those familiar with git and GitHub already,
 enjoy! For those new to git and/or GitHub, than here are some items that will help you on your journey.
 
-**Useful links to get you started...**
+# Useful links to get you started...
 - On premise GitHub URL: https://github.ascension.org
 - Git command cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
 - Github lab: https://lab.github.com/ (requires a public github.com account)
