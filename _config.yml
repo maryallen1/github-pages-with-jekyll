@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: na > your-twitter-handle
-github_username:  maryallen1 > your-github-handle
+twitter_username: na
+github_username:  maryallen1
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
